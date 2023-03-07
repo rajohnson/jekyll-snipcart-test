@@ -2,7 +2,8 @@
         <div class="product__information">
                 <h2 class="product__title"><a href="{{ product.url }}">{{ product.name }}</a></h2>
                 <p class="product__description">{{ product.description }}</p>
-                <img src="" alt="{{ product.name }} product image" class="product__image" style="width:25%">
+                <img src="{{ product.image }}" alt="{{ product.name }} product image" class="product__image"
+                        style="width:25%">
                 <p>{% include product-buy-button.html %}</p>
         </div>
 </div>
