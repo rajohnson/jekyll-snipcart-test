@@ -4,7 +4,7 @@ name: M315
 price: 113.00
 weight: 300
 image: /assets/images/ulp.jpg
-description: Digital Control Systems’ AirSense Model 315 ULP CO<sub>2</sub> Sensor sets a new standard of affordability, ease of installation, and user-friendly operation. For the first time standard dual-beam sensor. The AirSense 315 ULP only 0.28 inch height profile, making it the lowest profile in the industry.
+description: The Model 315 ULP is the sleek new member of the AirSense HVAC CO2 sensor family. Rising only about a quarter inch from the wall, it discreetly blends-into any architectural motif. But don’t be fooled by its slim profi le:inside is a powerhouse of modern sensor technology! The compact dual-beam detection system ensures accurate operation without the need for a “self calibration” algorithm and its attendant operational limitations. The Model 315 ULP can be used with any building occupancy profile!
 manual: todo
 brochure: todo
 wiring: todo
