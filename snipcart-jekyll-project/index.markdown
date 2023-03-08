@@ -4,11 +4,6 @@
 
 layout: default 
 ---
-Text above the products
 {% for product in site.products %}
  {% include product.html %}
 {% endfor %}
-Text after the products. 
-asdfkjjhasdg
-asdlgkjadf
-adglkjadfl
